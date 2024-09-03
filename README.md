@@ -10,7 +10,7 @@ Projeto desenvolvido para a API (Aprendizagem por Projeto Integrado) do 4° seme
 
 <br>
 
-<h3> 📌 Status do projeto: Concluído ✔️ </h3>
+<h3> 📌 Status do projeto: Em andamento ⏳ </h3>
 
 <br>
 
@@ -19,13 +19,13 @@ Projeto desenvolvido para a API (Aprendizagem por Projeto Integrado) do 4° seme
 <h3> :robot: Tecnologias utilizadas até o momento: </h3>
 
 <div align="center">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&color=00A0B9">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=00A0B9"/>
-    <img src="https://img.shields.io/badge/Figma-217346?style=for-the-badge&logo=figma&logoColor=white&color=00A0B9"/>
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&color=00A0B9"/>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white&color=00A0B9"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=00A0B9"/>
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&color=00A0B9"/>    
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&color=5454d4">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=5454d4"/>
+    <img src="https://img.shields.io/badge/Figma-217346?style=for-the-badge&logo=figma&logoColor=white&color=5454d4"/>
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&color=5454d4"/>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white&color=5454d4"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=5454d4"/>
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&color=5454d4"/>    
 </div>
 
 <br>
@@ -50,28 +50,28 @@ Projeto desenvolvido para a API (Aprendizagem por Projeto Integrado) do 4° seme
         <td> 1 </td>
         <td> 09/09 </td>
         <td> 29/09 </td>
-        <td><a href="">Não disponivel</a> </td>
+        <td> 🚧 </td>
         <td> Em andamento </td>
     </tr>
      <tr align="center">
         <td> 2 </td>
         <td> 30/09 </td>
         <td> 20/10 </td>
-        <td><a href="">Não disponivel</a> </td>
+        <td> 🚧 </td>
         <td> Não iniciada </td>
     </tr>
      <tr align="center">
         <td> 3 </td>
         <td> 21/10 </td>
         <td> 10/11 </td>
-        <td><a href="">Não disponivel</a> </td>
+        <td> 🚧 </td>
         <td> Não iniciada </td>
     </tr>
      <tr align="center">
         <td> 4 </td>
         <td> 11/11 </td>
         <td> 01/12 </td>
-        <td><a href="">Não disponivel</a> </td>
+        <td> 🚧 </td>
         <td> Não iniciada </td>
     </tr>
 </table>
@@ -86,34 +86,6 @@ Projeto desenvolvido para a API (Aprendizagem por Projeto Integrado) do 4° seme
 <h3> User Stories </h3>
 <img src="./Docs/UserStories.png"/>
 <br>
-
-<h2> DoR e DoD </h2>
-<table>
-    <tr>
-        <th> DoR </th>
-        <th> DoD </th>
-    </tr>
-    <tr> 
-        <td> Prototipar a funcionalidade em um wireframe, para auxilio do Dev Team </td>
-        <td> Cumprir claramente os critérios de aceitação previstos </td>
-    </tr>
-    <tr>
-        <td> User Stories com descrição dos objetivos e critérios de aceitação </td>
-        <td> Testes para garantir que a tarefa realmente cumpre sua função com êxito </td>
-    </tr>
-    <tr>
-        <td> A tarefa tem que estar diretamente ligada a um requisito do cliente. </td>
-        <td> Apresentar um código limpo para simplificar manutenções e adições futuras </td>
-    </tr>
-    <tr>
-        <td> A tarefa tem que estar ligada a uma User Storie ou a um Épico </td>
-        <td> Dar merge e excluir sua branch da tarefa após os testes </td>
-    </tr>
-    <tr>
-        <td>  </td>
-        <td> Comente seu codigo para melhor entendimento do grupo </td>
-    </tr>    
-</table>
 
 <h2> Padrão de commit </h2>
 <img src="./Docs/PadraoCommit.png"
@@ -136,44 +108,44 @@ Projeto desenvolvido para a API (Aprendizagem por Projeto Integrado) do 4° seme
         <td> <img src="https://avatars.githubusercontent.com/u/125418833?v=4" alt="ft de perfil" height="32px" width="32px"> </td>
         <td> Scrum Master </td>
         <td> Laura Gabriel Gonçalves </td>
-        <td> <a href="https://www.linkedin.com/in/eulauragabriel"> <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=00A0B9'/> </a> </td>
-        <td> <a href="https://github.com/eulauragabriel"> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=00A0B9'/> </a> </td>
+        <td> <a href="https://www.linkedin.com/in/eulauragabriel"> <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=5454d4'/> </a> </td>
+        <td> <a href="https://github.com/eulauragabriel"> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=5454d4'/> </a> </td>
     </tr>
     <tr>
           <td> <img src="https://avatars.githubusercontent.com/u/125457676?v=4" alt="ft de perfil" height="32px" width="32px"> </td>
           <td> Product Owner </td>
           <td> Pedro Henrique de Souza </td>
-          <td> <a href="https://www.linkedin.com/in/pedro-henrique-de-souza-128484214/"> <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=00A0B9'/> </a> </td>
-          <td> <a href="https://github.com/Pedryn"> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=00A0B9'/> </a> </td>
+          <td> <a href="https://www.linkedin.com/in/pedro-henrique-de-souza-128484214/"> <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=5454d4'/> </a> </td>
+          <td> <a href="https://github.com/Pedryn"> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=5454d4'/> </a> </td>
       </tr>
     <tr>
         <td><img src="https://avatars.githubusercontent.com/u/126176991?v=4" alt="ft de perfil" height="32px" width="32px"> </td>
         <td> Dev Team </td>
         <td> Felipe Gabriel Vieira </td>
-        <td> <a href="https://www.linkedin.com/in/velipefieira/"> <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=00A0B9'/> </a> </td>
-        <td> <a href="https://github.com/velipefieira"> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=00A0B9'/> </a> </td>
+        <td> <a href="https://www.linkedin.com/in/velipefieira/"> <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=5454d4'/> </a> </td>
+        <td> <a href="https://github.com/velipefieira"> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=5454d4'/> </a> </td>
     </tr>
   <tr>
      <td> <img src="https://avatars.githubusercontent.com/u/110743347?v=4" alt="ft de perfil" height="32px" width="32px"> </td>
           <td> Dev Team </td>
           <td> Letícia Helena de Oliveira Carvalho </td>
-          <td> <a href="https://www.linkedin.com/in/letícia-helena-carvalho"> <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=00A0B9'/> </a> </td>
-    <td> <a href="https://github.com/leticiacarvalho04"> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=00A0B9'/> </a> </td>
+          <td> <a href="https://www.linkedin.com/in/letícia-helena-carvalho"> <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=5454d4'/> </a> </td>
+    <td> <a href="https://github.com/leticiacarvalho04"> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=5454d4'/> </a> </td>
     </tr>
   </tr>
     <tr>
         <td> <img src="https://avatars.githubusercontent.com/u/126177124?v=4" alt="ft de perfil" height="32px" width="32px"> </td>
         <td> Dev Team </td>
         <td> Livia Alves de Faria </td>
-        <td> <a href="https://www.linkedin.com/in/livialvs"> <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=00A0B9'/> </a> </td>
-        <td> <a href="https://github.com/livialvs"> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=00A0B9'/> </a> </td>
+        <td> <a href="https://www.linkedin.com/in/livialvs"> <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=5454d4'/> </a> </td>
+        <td> <a href="https://github.com/livialvs"> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=5454d4'/> </a> </td>
     </tr>
     <tr>
         <td> <img src="https://avatars.githubusercontent.com/u/100814132?v=4" alt="ft de perfil" height="32px" width="32px"> </td>
         <td> Dev Team </td>
-        <td> Víctor do Santos Salles </td>
-        <td> <a href="https://www.linkedin.com/in/victor-salles-4a6554275"> <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=00A0B9'/> </a> </td>
-        <td> <a href="https://github.com/VictorSantos18"> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=00A0B9'/> </a> </td>
+        <td> Víctor dos Santos Salles </td>
+        <td> <a href="https://www.linkedin.com/in/victor-salles-4a6554275"> <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=5454d4'/> </a> </td>
+        <td> <a href="https://github.com/VictorSantos18"> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=5454d4'/> </a> </td>
     </tr>
 </table>
     
