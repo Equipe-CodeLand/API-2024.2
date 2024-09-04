@@ -1,0 +1,6 @@
+[submodule "API-2024.2-Back-End"]
+	path = API-2024.2-Back-End
+	url = https://github.com/Equipe-CodeLand/API-2024.2-Back-End
+[submodule "API-2024.2-Front-End"]
+	path = API-2024.2-Front-End
+	url = https://github.com/Equipe-CodeLand/API-2024.2-Front-End
