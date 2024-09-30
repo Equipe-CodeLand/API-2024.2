@@ -33,7 +33,7 @@ Projeto desenvolvido para a API (Aprendizagem por Projeto Integrado) do 4° seme
 <br>
 
 <h2> 🎯 MVP </h2>
-<img src="./docs/mvp-sprint1.gif" alt="MVP" width=600>
+<img src="./docs/mvp-sprint1.gif" alt="MVP" width=700>
 
 <br>
 
@@ -84,17 +84,17 @@ Projeto desenvolvido para a API (Aprendizagem por Projeto Integrado) do 4° seme
 <span id="backlog">
     
 <h2> 📓 Backlog Total </h2>
-<img src="./docs/BacklogSprint1.png"/>
+<img src="./docs/BacklogSprint1.png" width=700/>
 
 <h3> Épicos (Requisitos) </h3>
-<img src="./docs/Epicos.png"/> 
+<img src="./docs/Epicos.png" width=700/> 
 
 <h3> User Stories </h3>
-<img src="./docs/UserStories.png"/>
+<img src="./docs/UserStories.png" width=700/>
 <br>
 
 <h2> Padrão de commit </h2>
-<img src="./docs/PadraoCommit.png"
+<img src="./docs/PadraoCommit.png" width=700 />
 
 <br>
 
