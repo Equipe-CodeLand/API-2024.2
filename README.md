@@ -47,6 +47,7 @@ Projeto desenvolvido para a API (Aprendizagem por Projeto Integrado) do 4° seme
         <th> Início </th>
         <th> Entrega </th>
         <th> Relatório </th>
+        <th> Wiki </th>
         <th> Status </th>
     </tr>
     <tr align="center">
@@ -54,13 +55,15 @@ Projeto desenvolvido para a API (Aprendizagem por Projeto Integrado) do 4° seme
         <td> 09/09 </td>
         <td> 29/09 </td>
         <td> 🚧 </td>
-        <td> Concluída</td>
+        <td> <a href="https://github.com/Equipe-CodeLand/API-2024.2/wiki/API%E2%80%902024.2-%E2%80%90-Sprint-1">Wiki</a> </td>
+        <td> Concluída </td>
     </tr>
      <tr align="center">
         <td> 2 </td>
         <td> 30/09 </td>
         <td> 20/10 </td>
         <td> 🚧 </td>
+        <td> - </td>
         <td> Não iniciada </td>
     </tr>
      <tr align="center">
@@ -68,6 +71,7 @@ Projeto desenvolvido para a API (Aprendizagem por Projeto Integrado) do 4° seme
         <td> 21/10 </td>
         <td> 10/11 </td>
         <td> 🚧 </td>
+        <td> - </td>
         <td> Não iniciada </td>
     </tr>
      <tr align="center">
@@ -75,6 +79,7 @@ Projeto desenvolvido para a API (Aprendizagem por Projeto Integrado) do 4° seme
         <td> 11/11 </td>
         <td> 01/12 </td>
         <td> 🚧 </td>
+        <td> - </td>
         <td> Não iniciada </td>
     </tr>
 </table>
