@@ -33,6 +33,7 @@ Projeto desenvolvido para a API (Aprendizagem por Projeto Integrado) do 4° seme
 <br>
 
 <h2> 🎯 MVP </h2>
+<img src="./docs/mvp-sprint1.gif" alt="MVP" width=600>
 
 <br>
 
@@ -85,7 +86,7 @@ Projeto desenvolvido para a API (Aprendizagem por Projeto Integrado) do 4° seme
 <h2> 📓 Backlog Total </h2>
 <img src="./docs/BacklogSprint1.png"/>
 
-<h3> Épicos (Requisitos Funcionais) </h3>
+<h3> Épicos (Requisitos) </h3>
 <img src="./docs/Epicos.png"/> 
 
 <h3> User Stories </h3>
