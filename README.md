@@ -61,7 +61,7 @@ Projeto desenvolvido para a API (Aprendizagem por Projeto Integrado) do 4° seme
         <td> 30/09 </td>
         <td> 20/10 </td>
         <td> 🚧 </td>
-        <td> Não iniciada </td>
+        <td> Em Andamento </td>
     </tr>
      <tr align="center">
         <td> 3 </td>
@@ -83,19 +83,24 @@ Projeto desenvolvido para a API (Aprendizagem por Projeto Integrado) do 4° seme
 
 <span id="backlog">
     
-<h2> 📓 Backlog Total </h2>
+<h2> Backlog Total </h2>
 <img src="./docs/BacklogSprint1.png"/>
+<br>
 
 <h3> Épicos (Requisitos) </h3>
 <img src="./docs/Epicos.png"/> 
+<br>
 
 <h3> User Stories </h3>
 <img src="./docs/UserStories.png"/>
 <br>
 
-<h2> Padrão de commit </h2>
-<img src="./docs/PadraoCommit.png"
+<h2> Padrão de Commit </h2>
+<img src="./docs/PadraoCommit.png"/>
+<br>
 
+<h2> Fluxo de Trabalho </h2>
+<img src="./docs/Gitflow.png"/>
 <br>
 
 <span id="equipe">
