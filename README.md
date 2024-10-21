@@ -28,12 +28,21 @@ Projeto desenvolvido para a API (Aprendizagem por Projeto Integrado) do 4° seme
 <img src="https://img.shields.io/badge/CSS-6D39A8?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
 <img src="https://img.shields.io/badge/React-6D39A8?style=for-the-badge&logo=react&logoColor=white" alt="React">
 <img src="https://img.shields.io/badge/MySQL-6D39A8?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+<img src="https://img.shields.io/badge/Firebase-6D39A8?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
+<img src="https://img.shields.io/badge/Python-6D39A8?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Flask-6D39A8?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
 </div>
 
 <br>
 
 <h2> 🎯 MVP </h2>
-<img src="./docs/mvp-sprint1.gif" alt="MVP" width=700>
+<h2> Sistema para o usuário Administrador </h2>
+<img src="./docs/mvp-sprint2-adm.gif" alt="MVP" width=700>
+
+<br>
+
+<h2> Sistema para o usuário Visualizador </h2>
+<img src="./docs/mvp-sprint2-leitor.gif" alt="MVP" width=700>
 
 <br>
 
@@ -52,32 +61,32 @@ Projeto desenvolvido para a API (Aprendizagem por Projeto Integrado) do 4° seme
     </tr>
     <tr align="center">
         <td> 1 </td>
-        <td> 09/09 </td>
-        <td> 29/09 </td>
+        <td> 09/09/2024 </td>
+        <td> 29/09/2024 </td>
         <td> 🚧 </td>
         <td> <a href="https://github.com/Equipe-CodeLand/API-2024.2/wiki/API%E2%80%902024.2-%E2%80%90-Sprint-1">Wiki</a> </td>
         <td> Concluída </td>
     </tr>
      <tr align="center">
         <td> 2 </td>
-        <td> 30/09 </td>
-        <td> 20/10 </td>
+        <td> 30/09/2024 </td>
+        <td> 20/10/2024 </td>
         <td> 🚧 </td>
-        <td> -  </td>
+        <td> <a href="https://github.com/Equipe-CodeLand/API-2024.2/wiki/API%E2%80%902024.2-%E2%80%90-Sprint-2">Wiki</a> </td>
         <td> Em Andamento </td>
     </tr>
      <tr align="center">
         <td> 3 </td>
-        <td> 21/10 </td>
-        <td> 10/11 </td>
+        <td> 21/10/2024 </td>
+        <td> 10/11/2024 </td>
         <td> 🚧 </td>
         <td> - </td>
         <td> Não iniciada </td>
     </tr>
      <tr align="center">
         <td> 4 </td>
-        <td> 11/11 </td>
-        <td> 01/12 </td>
+        <td> 11/11/2024 </td>
+        <td> 01/12/2024 </td>
         <td> 🚧 </td>
         <td> - </td>
         <td> Não iniciada </td>
@@ -89,7 +98,7 @@ Projeto desenvolvido para a API (Aprendizagem por Projeto Integrado) do 4° seme
 <span id="backlog">
     
 <h2> Backlog Total </h2>
-<img src="./docs/BacklogSprint1.png" width=700 />
+<img src="./docs/BacklogSprint2.png" width=700 />
 <br>
 
 <h3> Épicos (Requisitos) </h3>
@@ -105,7 +114,7 @@ Projeto desenvolvido para a API (Aprendizagem por Projeto Integrado) do 4° seme
 <br>
 
 <h2> Fluxo de Trabalho </h2>
-<img src="./docs/Gitflow.png"/>
+<img src="./docs/Gitflow.png" width=700 />
 <br>
 
 <span id="equipe">
