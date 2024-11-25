@@ -143,6 +143,13 @@ Projeto desenvolvido para a API (Aprendizagem por Projeto Integrado) do 4° seme
           <td> <a href="https://github.com/Pedryn"> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=6D39A8'/> </a> </td>
       </tr>
     <tr>
+        <td><img src="https://avatars.githubusercontent.com/u/100285183?v=4" alt="ft de perfil" height="32px" width="32px"> </td>
+        <td> Dev Team </td>
+        <td> André Felipe da Costa </td>
+        <td> <a href="https://www.linkedin.com/in/andré-felipe-353260243/"> <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=6D39A8'/> </a> </td>
+        <td> <a href="https://github.com/fecosta290"> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=6D39A8'/> </a> </td>
+    </tr>
+    <tr>
         <td><img src="https://avatars.githubusercontent.com/u/126176991?v=4" alt="ft de perfil" height="32px" width="32px"> </td>
         <td> Dev Team </td>
         <td> Felipe Gabriel Vieira </td>
