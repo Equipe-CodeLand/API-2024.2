@@ -10,7 +10,7 @@ Projeto desenvolvido para a API (Aprendizagem por Projeto Integrado) do 4° seme
 
 <br>
 
-<h3> 📌 Status do projeto: Em andamento ⏳ </h3>
+<h3> 📌 Status do projeto: Concluído ✅ </h3>
 
 <br>
 
@@ -36,8 +36,10 @@ Projeto desenvolvido para a API (Aprendizagem por Projeto Integrado) do 4° seme
 <br>
 
 <h2> 🎯 MVP </h2>
-<h2> Datalogger em Funcionamento</h2>
+<h2> Datalogger em Funcionamento com o Arduíno</h2>
 <img src="./docs/mvp-sprint3.gif" alt="MVP" width=700>
+<h2> Filtros</h2>
+<img src="./docs/mvp-sprint4-filtros.gif" alt="MVP" width=700>
 
 <br>
 
@@ -74,17 +76,17 @@ Projeto desenvolvido para a API (Aprendizagem por Projeto Integrado) do 4° seme
         <td> 3 </td>
         <td> 21/10/2024 </td>
         <td> 10/11/2024 </td>
-        <td> 🚧 </td>
+        <td> ✅ </td>
         <td> <a href="https://github.com/Equipe-CodeLand/API-2024.2/wiki/API%E2%80%902024.2-%E2%80%90-Sprint-3">Wiki</a> </td>
-        <td> Em Andamento </td>
+        <td> Concluída </td>
     </tr>
      <tr align="center">
         <td> 4 </td>
         <td> 11/11/2024 </td>
         <td> 01/12/2024 </td>
-        <td> 🚧 </td>
-        <td> - </td>
-        <td> Não iniciada </td>
+        <td> ✅ </td>
+        <td> <a href="https://github.com/Equipe-CodeLand/API-2024.2/wiki/API%E2%80%902024.2-%E2%80%90-Sprint-4">Wiki</a> </td>
+        <td> Concluída </td>
     </tr>
 </table>
 
@@ -92,8 +94,8 @@ Projeto desenvolvido para a API (Aprendizagem por Projeto Integrado) do 4° seme
 
 <span id="backlog">
     
-<h2> Backlog Terceira Sprint </h2>
-<img src="./docs/BacklogSprint3.png" width=700 />
+<h2> Backlog Quarta Sprint </h2>
+<img src="./docs/BacklogSprint4.png" width=700 />
 <br>
 
 <h3> Requisitos </h3>
